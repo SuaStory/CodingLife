@@ -32,5 +32,9 @@ body.white{
 body.black{
     background-color: black;
     color: white;
+}
 
+header img{
+    float: right;
+    width: 100px;
 }
